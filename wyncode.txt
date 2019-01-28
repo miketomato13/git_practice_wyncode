@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 ayo
-=======
 Tomato sauce boss
->>>>>>> 210e612af2e7094802c9bebd2defee557a53fc83
